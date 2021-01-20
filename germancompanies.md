@@ -16,5 +16,9 @@ sva
 	https://www.bitmi.de/leistungen/software-made-in-germany/
 	
 	Eclipse Foundation
+	
+	https://www.eclipse.org/org/foundation/
+	
+	apache foundation
 
 
